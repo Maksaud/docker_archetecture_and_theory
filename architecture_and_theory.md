@@ -13,7 +13,7 @@ Containers have 2 building blocks:
 - All container share a single kernel on the host
 - Each container do not know that the other containers exist.
 
-
+        
 ### Control groups
 - Grouping objects and setting limits
 - Group processes and propose limits
